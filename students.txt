@@ -1,0 +1,6 @@
+Ivanov Ivan Ivanovich male 18 1
+Petrov Petro Petrovich male 21 4
+Jones John Paul male 19 2
+Melnik Galina Vitaliivna female 19 2
+Polishchuk Katerina Sergiivna female 19 1
+Lewandovski Robert Alexandrovich male 18 1
